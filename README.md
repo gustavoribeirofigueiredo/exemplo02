@@ -1,2 +1,2 @@
 # exemplo02
-repositorio para testes
+repositorio para testes usando git
